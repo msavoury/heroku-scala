@@ -1,5 +1,6 @@
 This is your new Play application
 =================================
+Deploying to heroku: ```git push heroku master```
 
 This file will be packaged with your application when using `activator dist`.
 
